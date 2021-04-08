@@ -1,5 +1,6 @@
 # beholder
 "It observes everything"
+
 Just another sample project focused on observability on .NET with Elastic stack.
 
 
@@ -16,6 +17,14 @@ The followings urls will be available:
 - Beholder App Sample - https://localhost:5001/swagger/index.html
 
 Try out the swagger enpoint execution and see the metrics on kibana.
+
+![Elastic APM](./assets/beholder-apm.png)
+
+
+## TODO
+
+- [ ] Serilog Elastic Formatter
+- [ ] FluentD
 
 
 ## Useful links
